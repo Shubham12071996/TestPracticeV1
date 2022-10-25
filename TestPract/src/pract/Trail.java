@@ -13,7 +13,6 @@ import java.util.concurrent.LinkedBlockingDeque;
   
 {"purposes","west","rocky","world", "her","she","lost","let","is","and","men"};  
  */
-//github ps - Shubham@12071996  // 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
 
 public class Trail {
 	public static void main(String[] args) {
