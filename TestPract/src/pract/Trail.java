@@ -12,6 +12,7 @@ import java.util.concurrent.LinkedBlockingDeque;
   educated [men] and women who have won recognition throughout the [world] in all the learned professions"
   
 {"purposes","west","rocky","world", "her","she","lost","let","is","and","men"};  
+<<<<<<< HEAD
  *///
 
 public class Trail {
@@ -19,6 +20,8 @@ public class Trail {
 		
 		String s1 = "According to the caption on the bronze marker placed by the Multnomah Chapter of the Daughters of the American Revolution on May 12, 1939,College Hall (is) the oldest building in continuous use for Educational purposes west of the Rocky Mountains. Here were educated men and women who have won recognition throughout the world in all the learned professions";
 		List<String> list = new LinkedList<String>();
+		
+		int number =10;
 		
 		//StringJoiner sj = new StringJoiner("," ,"{", "}");
 		
