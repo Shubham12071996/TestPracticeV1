@@ -12,7 +12,7 @@ import java.util.concurrent.LinkedBlockingDeque;
   educated [men] and women who have won recognition throughout the [world] in all the learned professions"
   
 {"purposes","west","rocky","world", "her","she","lost","let","is","and","men"};  
- */
+ *///
 
 public class Trail {
 	public static void main(String[] args) {
